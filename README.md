@@ -66,3 +66,4 @@ O projeto visa implementar um sistema inteligente de irrigação automática uti
 ## 📝 Licença
 
 Este projeto foi desenvolvido para fins educacionais e está disponível sob a [Licença MIT](LICENSE), permitindo seu uso e modificação com os devidos créditos.
+
